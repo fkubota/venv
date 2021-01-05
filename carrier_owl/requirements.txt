@@ -1,6 +1,13 @@
 arxiv==0.5.3
+backcall==0.2.0
 beautifulsoup4==4.9.0
+certifi==2020.12.5
+chardet==3.0.4
 chromedriver-binary==87.0.4280.88.0
+decorator==4.4.2
+fastprogress==1.0.0
+feedparser==6.0.2
+idna==2.10
 ipdb==0.13.4
 ipython==7.19.0
 ipython-genutils==0.2.0
