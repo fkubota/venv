@@ -175,3 +175,4 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 xarray==0.16.0
 zipp==3.1.0
+opencv-python==4.5.1.48
