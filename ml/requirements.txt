@@ -12,10 +12,10 @@ Jinja2==2.11.2
 joblib==0.16.0
 jupyter-client==6.1.6
 jupyter-core==4.6.3
-librosa==0.8.0
+# librosa==0.8.0
 lightgbm==2.3.1
 loguru==0.5.1
-matplotlib==3.0.0
+matplotlib==3.3.4
 mlflow==1.10.0
 numpy==1.15.2
 omegaconf==1.4.1
